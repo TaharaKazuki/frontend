@@ -1,6 +1,11 @@
 {
   "permissions": {
-    "allow": ["Bash(git add:*)", "Bash(chmod:*)", "Bash(git commit:*)"],
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(chmod:*)",
+      "Bash(git commit:*)",
+      "Bash(npx ultracite:*)"
+    ],
     "deny": [],
     "ask": []
   }
